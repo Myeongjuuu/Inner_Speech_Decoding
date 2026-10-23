@@ -1,5 +1,6 @@
-[Dd]ataset/
+# Data and generated artifacts
 [Dd]ata/
+[Dd]ataset/
 derivatives/
 *.bdf
 *.edf
@@ -19,3 +20,12 @@ __pycache__/
 venv/
 .env
 .env.*
+configs/local*.yaml
+results/generated/
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+!/data/
+/data/*
+!/data/README.md
