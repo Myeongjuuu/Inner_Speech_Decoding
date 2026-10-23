@@ -1,4 +1,4 @@
-# ICASSP 2027 — Inner Speech EEG Analysis
+Inner Speech EEG Analysis
 
 EEG preprocessing, run-held-out CSP classification, and exploratory task/rest connectivity analysis for the [Inner Speech dataset, ds003626 v2.1.2](https://doi.org/10.18112/openneuro.ds003626.v2.1.2).
 
